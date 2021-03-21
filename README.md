@@ -3,7 +3,7 @@
 ---
 
 <p>
-  I am an IT student and a technology enthusiast. I have been studying web development since 2019, therefore acquiring knowledge about JavaScript, database, HTML, CSS, React, Angular, Java and Node. Nice to meet you!
+  My name is Fábio, nice to meet you! I'm an IT student and a technology enthusiast. I've been studying software development since 2019, since then, i was able to learn and acquire knowledge about a bunch on languages, frameworks, design patterns, architectures, etc. My goal is to achieve the excellence of software development!
 </p
   
 ---
