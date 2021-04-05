@@ -3,14 +3,15 @@
 ---
 
 <p>
-  My name is Fábio, nice to meet you! I'm an IT student and a technology enthusiast. I've been studying software development since 2019, since then, i was able to learn and acquire knowledge about a bunch on languages, frameworks, design patterns, architectures, etc. My goal is to achieve the excellence of software development!
+  Hello there young padawan, my name is Fábio, nice to have you here! I'm an IT student and a technology enthusiast. My goal is to achieve the excellence of software development!
 </p
   
 ---
 
 ### Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/f%C3%A1bio-luiz-vieira-filho-2b494417a/)
+<a href="https://www.linkedin.com/in/f%C3%A1bio-luiz-vieira-filho-2b494417a/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/fabiovieira_lf"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:fabioluizvieiraf@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 ---
 
