@@ -3,7 +3,7 @@
 ---
 
 <p>
-  Hello there young padawan, my name is Fábio, nice to have you here! I'm an IT student and a technology enthusiast. My goal is to achieve the excellence of software development!
+  Hello there young padawan, my name is Fábio, nice to have you here! I'm an IT professional and a technology enthusiast. My goal is to achieve the excellence of software development!
 </p
   
 ---
