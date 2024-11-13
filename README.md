@@ -4,7 +4,7 @@
 
 #### About Me 🚀
 
-Hello, I'm Fábio, a seasoned Software Developer passionate about writing efficient and scalable code. My journey in the tech world is fueled by an overarching goal: achieving both financial and intellectual freedom through software excellence.
+Hello! I'm Fábio Vieira, a Solutions Engineer with more than 5 years of experience in different technology stacks and 3 apps published on the App Store and Play Store. 
 
 ---
 
