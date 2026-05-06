@@ -4,7 +4,7 @@
 
 #### About Me 🚀
 
-Hello! I'm Fábio Vieira, a Solutions Engineer with more than 5 years of experience in different technology stacks and 3 apps published on the App Store and Play Store. 
+Hello! I'm Fábio Vieira, a Solutions Engineer. 
 
 ---
 
