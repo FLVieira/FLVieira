@@ -62,19 +62,6 @@ My focus is on architecting complex SaaS platforms from zero to production, lead
 
 
 
-
-📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Fabio-Vieira&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Fábio's GitHub Stats" />
-    
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabio-Vieira&theme=radical&hide_border=true&background=0D1117" alt="Fábio's GitHub Streak" />
-</div>
-
-
-
-
 <div align="center">
 <i>"Building the future of SaaS with AI-driven engineering."</i>
 </div>
